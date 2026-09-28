@@ -1,14 +1,6 @@
 [
     {
-        "id": "d23e504a4a204c4f8ca12a0e08bec64c",
-        "platform": "AtCoder",
-        "title": "AtCoder Grand Contest 078",
-        "url": "https://atcoder.jp/contests/agc078",
-        "start_time": "2026-09-27T17:30:00+05:30",
-        "duration": 12600
-    },
-    {
-        "id": "38377d9096934dec93e9071a0ed7fb68",
+        "id": "8f34f1e431b548caa2b281f535a784b8",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 478",
         "url": "https://atcoder.jp/contests/abc478",
@@ -16,7 +8,7 @@
         "duration": 6000
     },
     {
-        "id": "2f4ac26c012d45109670f487096a1d1f",
+        "id": "a0a31f5b7349496fa9b21f1181e2e60e",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest 231",
         "url": "https://atcoder.jp/contests/arc231",
@@ -24,7 +16,7 @@
         "duration": 7200
     },
     {
-        "id": "ba3cd29c426740568eb14376f7abbf41",
+        "id": "4dadf82da8f549a69096bfa8e9abc6dc",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 232",
         "url": "https://atcoder.jp/contests/arc232",
@@ -32,7 +24,7 @@
         "duration": 9000
     },
     {
-        "id": "f80a5744b82145f6990808ca1ac0d88c",
+        "id": "5cd03c8283a34da38b86c4bda304a09b",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 479",
         "url": "https://atcoder.jp/contests/abc479",
@@ -40,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "178907032da843c3ade37e4d5aa7e5b7",
+        "id": "928ce293634d4c95a23c74214028e0a8",
         "platform": "AtCoder",
         "title": "AAL Contest 001: Let's use segtree!",
         "url": "https://atcoder.jp/contests/aalc001",
@@ -48,7 +40,23 @@
         "duration": 18000
     },
     {
-        "id": "d72cb1db6ee94b97a81cce96a3939020",
+        "id": "d969a32665a5488d9bd56981d25cc5a2",
+        "platform": "AtCoder",
+        "title": "AtCoder Heuristic Contest 073",
+        "url": "https://atcoder.jp/contests/ahc073",
+        "start_time": "2026-10-17T11:30:00+05:30",
+        "duration": 14400
+    },
+    {
+        "id": "6c97ef407dbd4f0bb532e84d95f768c2",
+        "platform": "AtCoder",
+        "title": "AtCoder Beginner Contest 480",
+        "url": "https://atcoder.jp/contests/abc480",
+        "start_time": "2026-10-17T17:30:00+05:30",
+        "duration": 6000
+    },
+    {
+        "id": "785adab733f24786b9509c432a5d659f",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2261",
@@ -56,7 +64,7 @@
         "duration": 10800
     },
     {
-        "id": "929e8616881e4b2bbd4de01709d69526",
+        "id": "6d9da66f879641b8b6a2d10243416688",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2273",
@@ -64,7 +72,7 @@
         "duration": 9000
     },
     {
-        "id": "7a359a69a46044d4a2e2bd0ee96ac4c8",
+        "id": "5ad4d9bc4cfd4987ba8aec363fa3ecba",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2274",
@@ -72,7 +80,7 @@
         "duration": 9000
     },
     {
-        "id": "b5ad39f696824b148871810cafa46608",
+        "id": "50a32769e94949a39f39791034401d77",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2271",
@@ -80,7 +88,15 @@
         "duration": 10800
     },
     {
-        "id": "edd1f0f024c042519e465b6a2d5c6d9f",
+        "id": "7b3f502923704163a8fa1deac2840c30",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 523",
+        "url": "https://leetcode.com/contest/weekly-contest-523",
+        "start_time": "2026-10-11T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "fce2c1d0382f4fafaa31f7649758a397",
         "platform": "LeetCode",
         "title": "Biweekly Contest 193",
         "url": "https://leetcode.com/contest/biweekly-contest-193",
@@ -88,7 +104,7 @@
         "duration": 5400
     },
     {
-        "id": "6005026621844604a347b2b5dc5a2429",
+        "id": "431b4a3b65924642a49d999ebb7d6bb3",
         "platform": "LeetCode",
         "title": "Weekly Contest 522",
         "url": "https://leetcode.com/contest/weekly-contest-522",
