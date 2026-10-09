@@ -1,6 +1,6 @@
 [
     {
-        "id": "c21f8e139f284f198a3d5df1a97890da",
+        "id": "f5b037374afd48b396689f1a845dcfe6",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 232",
         "url": "https://atcoder.jp/contests/arc232",
@@ -8,7 +8,7 @@
         "duration": 9000
     },
     {
-        "id": "c39cdbc36da241b49164f7c25dc57056",
+        "id": "07510faafeca4f20acbf9603ed1bbbf6",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 479",
         "url": "https://atcoder.jp/contests/abc479",
@@ -16,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "51daa5e2dd98444db7637f07b9a72754",
+        "id": "46a4ec3038454814bf75444247b5dd0c",
         "platform": "AtCoder",
         "title": "AAL Contest 001: Let's use segtree!",
         "url": "https://atcoder.jp/contests/aalc001",
@@ -24,7 +24,7 @@
         "duration": 18000
     },
     {
-        "id": "832da6e05ba04cbb864d7fc7fab19d8a",
+        "id": "c6b602e2bcdc49509f3be40d24ff2256",
         "platform": "AtCoder",
         "title": "AtCoder Heuristic Contest 073",
         "url": "https://atcoder.jp/contests/ahc073",
@@ -32,7 +32,7 @@
         "duration": 14400
     },
     {
-        "id": "110b3a626ae1489eac17259c9b3825f9",
+        "id": "840e27681dbf445d96722cd51eeff162",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 480",
         "url": "https://atcoder.jp/contests/abc480",
@@ -40,7 +40,7 @@
         "duration": 6000
     },
     {
-        "id": "e97aa5a84a2e4d4989d19157e6021c78",
+        "id": "1b898a56eded4e32927ecb4f79370f59",
         "platform": "AtCoder",
         "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
         "url": "https://atcoder.jp/contests/ahc074",
@@ -48,7 +48,7 @@
         "duration": 864000
     },
     {
-        "id": "c504a667cadc45e4b835d07281e125a0",
+        "id": "f1602ab5fa8d473b9bd25c333c197dd4",
         "platform": "Codeforces",
         "title": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2261",
@@ -56,7 +56,7 @@
         "duration": 10800
     },
     {
-        "id": "818976c56b7641fbad4e5b4cd17dcbd7",
+        "id": "25b584520f5b44ffa4431426ca101c07",
         "platform": "Codeforces",
         "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
         "url": "https://codeforces.com/contests/2276",
@@ -64,23 +64,23 @@
         "duration": 7200
     },
     {
-        "id": "1d72a58239964ae68dacad02b4587dbe",
+        "id": "8f78410f64c640af993fe313b0047916",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2273",
         "start_time": "2026-10-12T00:05:00+05:30",
-        "duration": 9000
+        "duration": 7200
     },
     {
-        "id": "90b526311ad34978b8344907f3a5fa53",
+        "id": "2659dcb278f34406921eb6a5141fcdd1",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2274",
         "start_time": "2026-10-12T00:05:00+05:30",
-        "duration": 9000
+        "duration": 7200
     },
     {
-        "id": "517010863f2144118ba242b76c69a388",
+        "id": "43b8464feb794ce6a3f51790c6cb474e",
         "platform": "Codeforces",
         "title": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
         "url": "https://codeforces.com/contests/2271",
@@ -88,7 +88,7 @@
         "duration": 10800
     },
     {
-        "id": "e1aa274df7a346478a702684725f924a",
+        "id": "9f8f81e4dc1f48169412730728490b89",
         "platform": "LeetCode",
         "title": "Weekly Contest 523",
         "url": "https://leetcode.com/contest/weekly-contest-523",
@@ -96,7 +96,7 @@
         "duration": 5400
     },
     {
-        "id": "fd47214ecb3b4fbcabdd42464319a6b1",
+        "id": "596c8421fce54240bc9f9a8964152c09",
         "platform": "LeetCode",
         "title": "Biweekly Contest 193",
         "url": "https://leetcode.com/contest/biweekly-contest-193",
