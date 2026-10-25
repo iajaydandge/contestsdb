@@ -1,14 +1,6 @@
 [
     {
-        "id": "c3fd0fdd5c5f4c119a53c03531278e18",
-        "platform": "AtCoder",
-        "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481)",
-        "url": "https://atcoder.jp/contests/abc481",
-        "start_time": "2026-10-24T17:30:00+05:30",
-        "duration": 6000
-    },
-    {
-        "id": "df8c77cd07a24fd49746714f5f5f12f3",
+        "id": "b5472051b1af403d897205c26c10a670",
         "platform": "AtCoder",
         "title": "AtCoder Regular Contest++ 233",
         "url": "https://atcoder.jp/contests/arc233",
@@ -16,7 +8,7 @@
         "duration": 9000
     },
     {
-        "id": "d8580a2682fc4ca0a8adb70116fa7323",
+        "id": "0b29e95dd14445caa51d8731d1ed0537",
         "platform": "AtCoder",
         "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
         "url": "https://atcoder.jp/contests/ahc074",
@@ -24,7 +16,7 @@
         "duration": 864000
     },
     {
-        "id": "026aab94b98e401c84e34e4017040f36",
+        "id": "8c722982ea4d409da6a584526b40f254",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 482",
         "url": "https://atcoder.jp/contests/abc482",
@@ -32,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "01f6a067083244df9712de8a096948c7",
+        "id": "7fe5138f84864263b1465e92f43f05e9",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 483",
         "url": "https://atcoder.jp/contests/abc483",
@@ -40,7 +32,7 @@
         "duration": 6000
     },
     {
-        "id": "7c6caa2eb1e245bbb0d84cdc000c63ee",
+        "id": "f5cef7799a47461f9c80687fbc42b075",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 079",
         "url": "https://atcoder.jp/contests/agc079",
@@ -48,7 +40,7 @@
         "duration": 10800
     },
     {
-        "id": "6b6538b9d8584db58223c1ef73e68a17",
+        "id": "30428bff57f54cdcb8793085bf4f3683",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 484",
         "url": "https://atcoder.jp/contests/abc484",
@@ -56,7 +48,7 @@
         "duration": 6000
     },
     {
-        "id": "67c596de7c8e485ab9b3341c79ceea2c",
+        "id": "7465f0f22e7244eea764720c9440917c",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2279",
@@ -64,7 +56,7 @@
         "duration": 9000
     },
     {
-        "id": "cd3a2e2a54b047f4ba36eb444eb8cac1",
+        "id": "87b4d90c1a784673aae3e780a6bbc183",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2280",
@@ -72,7 +64,7 @@
         "duration": 9000
     },
     {
-        "id": "d6b42464fc794f77ba66442e321044e9",
+        "id": "447acd4d194b4c1ab9c6c0fbbe55f07d",
         "platform": "Codeforces",
         "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
         "url": "https://codeforces.com/contests/2281",
@@ -80,7 +72,7 @@
         "duration": 1209600
     },
     {
-        "id": "b367f38f07544ed690bac03e1050e4be",
+        "id": "75522ecd1ad44c60adbb055cf4754237",
         "platform": "Codeforces",
         "title": "Codeforces Round 1131 (Div. 3)",
         "url": "https://codeforces.com/contests/2278",
@@ -88,7 +80,7 @@
         "duration": 8100
     },
     {
-        "id": "451d50b7568b413fb7ab53938abecdeb",
+        "id": "83cfe399b28c493c85bb777c266dab6d",
         "platform": "Codeforces",
         "title": "Codeforces Round 1130 (Div. 2)",
         "url": "https://codeforces.com/contests/2272",
@@ -96,15 +88,7 @@
         "duration": 8100
     },
     {
-        "id": "d2d7da202dea45279530d6dced2e0458",
-        "platform": "Codeforces",
-        "title": "Codeforces Round 1129 (Div. 2)",
-        "url": "https://codeforces.com/contests/2277",
-        "start_time": "2026-10-24T16:35:00+05:30",
-        "duration": 8100
-    },
-    {
-        "id": "8aa65d252e404703a52705dafcf04fc9",
+        "id": "c830d9dca3ac418eac3b552f6b102353",
         "platform": "LeetCode",
         "title": "Biweekly Contest 195",
         "url": "https://leetcode.com/contest/biweekly-contest-195",
@@ -112,27 +96,11 @@
         "duration": 5400
     },
     {
-        "id": "5179b994a925408688ae4d439d9d6678",
+        "id": "4caedf108248489db4867eccf0a9e972",
         "platform": "LeetCode",
         "title": "Weekly Contest 526",
         "url": "https://leetcode.com/contest/weekly-contest-526",
         "start_time": "2026-11-01T08:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "9373f17d735a41298957e88cc4d6466a",
-        "platform": "LeetCode",
-        "title": "Weekly Contest 525",
-        "url": "https://leetcode.com/contest/weekly-contest-525",
-        "start_time": "2026-10-25T08:00:00+05:30",
-        "duration": 5400
-    },
-    {
-        "id": "b7036f1f6d2e452196057894434695fe",
-        "platform": "LeetCode",
-        "title": "Biweekly Contest 194",
-        "url": "https://leetcode.com/contest/biweekly-contest-194",
-        "start_time": "2026-10-24T20:00:00+05:30",
         "duration": 5400
     }
 ]
