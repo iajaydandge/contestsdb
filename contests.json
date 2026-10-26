@@ -1,14 +1,6 @@
 [
     {
-        "id": "b5472051b1af403d897205c26c10a670",
-        "platform": "AtCoder",
-        "title": "AtCoder Regular Contest++ 233",
-        "url": "https://atcoder.jp/contests/arc233",
-        "start_time": "2026-10-25T17:30:00+05:30",
-        "duration": 9000
-    },
-    {
-        "id": "0b29e95dd14445caa51d8731d1ed0537",
+        "id": "ef748b91d5624d00976b4e345745720e",
         "platform": "AtCoder",
         "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
         "url": "https://atcoder.jp/contests/ahc074",
@@ -16,7 +8,7 @@
         "duration": 864000
     },
     {
-        "id": "8c722982ea4d409da6a584526b40f254",
+        "id": "cc8e576d040c422293ed0347360ade73",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 482",
         "url": "https://atcoder.jp/contests/abc482",
@@ -24,7 +16,7 @@
         "duration": 6000
     },
     {
-        "id": "7fe5138f84864263b1465e92f43f05e9",
+        "id": "f2b05c778c9d4b8ca841cc57c95f4beb",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 483",
         "url": "https://atcoder.jp/contests/abc483",
@@ -32,7 +24,7 @@
         "duration": 6000
     },
     {
-        "id": "f5cef7799a47461f9c80687fbc42b075",
+        "id": "4e72f711dd78463fa470c0226ff4f656",
         "platform": "AtCoder",
         "title": "AtCoder Grand Contest 079",
         "url": "https://atcoder.jp/contests/agc079",
@@ -40,7 +32,7 @@
         "duration": 10800
     },
     {
-        "id": "30428bff57f54cdcb8793085bf4f3683",
+        "id": "5806a266127f43b781bebd971089dcca",
         "platform": "AtCoder",
         "title": "AtCoder Beginner Contest 484",
         "url": "https://atcoder.jp/contests/abc484",
@@ -48,7 +40,31 @@
         "duration": 6000
     },
     {
-        "id": "7465f0f22e7244eea764720c9440917c",
+        "id": "8b7102bb94534d9eb0ef0331ef09120f",
+        "platform": "AtCoder",
+        "title": "AtCoder Beginner Contest 485",
+        "url": "https://atcoder.jp/contests/abc485",
+        "start_time": "2026-11-21T17:30:00+05:30",
+        "duration": 6000
+    },
+    {
+        "id": "c230118a96ec4f85984b9bef449388f6",
+        "platform": "AtCoder",
+        "title": "AtCoder Regular Contest++ 234",
+        "url": "https://atcoder.jp/contests/arc234",
+        "start_time": "2026-11-22T17:30:00+05:30",
+        "duration": 9000
+    },
+    {
+        "id": "a9d0dede35164665873a30bdc9e22c76",
+        "platform": "Codeforces",
+        "title": "Kotlin Heroes: Episode 15",
+        "url": "https://codeforces.com/contests/2282",
+        "start_time": "2026-11-27T20:05:00+05:30",
+        "duration": 9000
+    },
+    {
+        "id": "bacae0070e92429597a2b52db1a4fef7",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 1)",
         "url": "https://codeforces.com/contests/2279",
@@ -56,7 +72,7 @@
         "duration": 9000
     },
     {
-        "id": "87b4d90c1a784673aae3e780a6bbc183",
+        "id": "71a33029bb794c52a7bf2cf2d5efcf58",
         "platform": "Codeforces",
         "title": "Codeforces Round (Div. 2)",
         "url": "https://codeforces.com/contests/2280",
@@ -64,7 +80,7 @@
         "duration": 9000
     },
     {
-        "id": "447acd4d194b4c1ab9c6c0fbbe55f07d",
+        "id": "c1c0f91e60d64d8195e4cc1da6d3fb20",
         "platform": "Codeforces",
         "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
         "url": "https://codeforces.com/contests/2281",
@@ -72,7 +88,7 @@
         "duration": 1209600
     },
     {
-        "id": "75522ecd1ad44c60adbb055cf4754237",
+        "id": "0fb24e324937471eb02a7ce253e691af",
         "platform": "Codeforces",
         "title": "Codeforces Round 1131 (Div. 3)",
         "url": "https://codeforces.com/contests/2278",
@@ -80,7 +96,7 @@
         "duration": 8100
     },
     {
-        "id": "83cfe399b28c493c85bb777c266dab6d",
+        "id": "1230ce4997664cb49cbeb9361aaa68df",
         "platform": "Codeforces",
         "title": "Codeforces Round 1130 (Div. 2)",
         "url": "https://codeforces.com/contests/2272",
@@ -88,7 +104,15 @@
         "duration": 8100
     },
     {
-        "id": "c830d9dca3ac418eac3b552f6b102353",
+        "id": "48ded062b7a942d1afef004f567de65e",
+        "platform": "LeetCode",
+        "title": "Weekly Contest 527",
+        "url": "https://leetcode.com/contest/weekly-contest-527",
+        "start_time": "2026-11-08T08:00:00+05:30",
+        "duration": 5400
+    },
+    {
+        "id": "3f4126c50e3545f08ad73d14e8989f47",
         "platform": "LeetCode",
         "title": "Biweekly Contest 195",
         "url": "https://leetcode.com/contest/biweekly-contest-195",
@@ -96,7 +120,7 @@
         "duration": 5400
     },
     {
-        "id": "4caedf108248489db4867eccf0a9e972",
+        "id": "f67c316e65cd418391d51bb41bdd70f3",
         "platform": "LeetCode",
         "title": "Weekly Contest 526",
         "url": "https://leetcode.com/contest/weekly-contest-526",
