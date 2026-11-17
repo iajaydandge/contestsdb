@@ -2,7 +2,7 @@
 
 Schedule of Ongoing and Upcoming contests from AtCoder, CodeChef, Codeforces, LeetCode and GeeksforGeeks in JSON format
 
-*Contest DB last updated at Mon, Nov 16, 2026 11:57 AM*  
+*Contest DB last updated at Tue, Nov 17, 2026 12:21 PM*  
 
 > [!NOTE]
 > You can access this data through various methods, such as `cURL`, JavaScript, Python, etc. Below are examples for accessing it:
